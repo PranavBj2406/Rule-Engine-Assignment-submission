@@ -1,0 +1,13 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (recommended)
+venv/
+.venv/
+env/
+
+# Other common Python files
+.pytest_cache/
+.mypy_cache/
